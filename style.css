@@ -1,0 +1,76 @@
+* { 
+    margin: 1000 auto;
+    padding: 0%;
+    box-sizing: border-box;
+    
+    
+}
+.headers{
+    max-width: 1280px;
+    margin:  0 auto;
+    font-family: 'Open Sans', sans-serif;
+    color: bisque;
+    font: 100;
+    text-align: center 
+        
+}
+
+.photo img{
+    height: 450px;
+    position: absolute;
+    top:  auto;
+    left: 900px;
+    
+}
+.email{
+    top: 550px;
+    left: 990px;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+}
+.email img{
+    height: 50px;
+}
+
+.whats{
+    top: 550px;
+    left: 1080px;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+}
+.whats img{
+    height: 45px;
+}
+
+.linkedin{
+    top: 550px;
+    left: 1160px;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+}
+.linkedin img{
+    height: 45px;
+}
+
+.sobre{
+    top: 150px;
+    left: 130px;
+    position: absolute;
+    color: antiquewhite;
+    font-family: 'Kanit', sans-serif;
+}
+.imggroup img{
+    top: 320px;
+    left: 190px;
+    position: absolute;
+    height: 300px;
+
+}
+h4{
+    top: 450px;
+    left: 190px;
+    position: absolute;
+    color: white; 
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
